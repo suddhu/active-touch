@@ -12,7 +12,8 @@ scipy
 submitit
 tensorboard
 trimesh
-
+click
+jsonpointer
 
 
 
